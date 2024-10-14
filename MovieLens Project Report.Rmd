@@ -1,7 +1,6 @@
 ---
 title: "MovieLens Project Report"
-author: "Eric Mestiza"
-date: "4/24/2019"
+author:
 ---
 
 Note: Report begins below the R code output.
